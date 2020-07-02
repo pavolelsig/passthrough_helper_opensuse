@@ -3,6 +3,7 @@
 if [ -a readme.md ]
     then
         echo "Please run uninstall.sh before attempting to run the script again!"
+	exit
 fi
     
 zypper install qemu virt-manager libvirt
