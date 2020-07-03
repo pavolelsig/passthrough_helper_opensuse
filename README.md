@@ -8,4 +8,4 @@ This is a simple script that makes your system ready to run a KVM/QEMU virtual m
 
 To update and existing instance of this passthrough helper with new GPUs, run ./update.sh
 
-For a tutorial, visit: 
+For a tutorial, visit: https://youtu.be/Nu2bHV8mA6c
